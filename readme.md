@@ -1,8 +1,8 @@
 
 
-### 各应用市场信息大全
+# 各应用市场信息大全
 
-*   开发者中心提交应用入口
+##    开发者中心提交应用入口
 
 [小米应用商店](http://developer.xiaomi.com/new/step1/)
 
@@ -80,7 +80,7 @@
 
 [安卓地带](http://my.6497.com/member/content_list.php?channelid=3)
 
-*   联系人
+##  联系人
 
 [小米应用商店](http://dev.xiaomi.com/doc/page_id=22/index.html)
 
@@ -112,7 +112,7 @@
 
 [金立软件商店](http://dev.xiaomi.com/doc/p=4888/index.html)
 
-*   帮助文档
+##   帮助文档
 
 [Google Play](https://support.google.com/googleplay/android-developer/?hl=zh-Hant)
 
